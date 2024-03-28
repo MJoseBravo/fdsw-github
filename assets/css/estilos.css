@@ -11,6 +11,10 @@ body {
   background-position: left;
 }
 
+.separadorderecho {
+  border-right: 1px solid black;
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos {
